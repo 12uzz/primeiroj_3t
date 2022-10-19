@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Nome: Jesus   Nr. 50
+Nome: lucas hasegawa fujita  Nr. 15
 
 ## Assuntos
 HTML, CSS e JavaScript
